@@ -1,6 +1,0 @@
-websocket-client
-pandas
-pandas_ta
-requests
-python-dotenv
-streamlit
